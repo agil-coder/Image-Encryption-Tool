@@ -1,2 +1,9 @@
-Pillow
-numpy
+# Image processing and pixel manipulation
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Modern GUI Framework
+customtkinter>=5.2.0
+
+# Optional: Packaging tool for creating .exe files (if you ever want to)
+# pyinstaller
